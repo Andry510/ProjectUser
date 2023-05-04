@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "nombre": "María",
+      "apellido": "García",
+      "email": "maria.garcia@example.com",
+      "numero_de_celular": "+52 55 1234 5678",
+      "descripcion": "Hola, mi nombre es María y me encanta cocinar en mi tiempo libre.",
+      "fecha_de_nacimiento": "1990-01-15",      
+      "imagen": "https://example.com/maria_garcia.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Pedro",
+      "apellido": "Martínez",
+      "email": "pedro.martinez@example.com",
+      "numero_de_celular": "+52 55 8765 4321",
+      "fecha_de_nacimiento": "1985-03-22",
+      "imagen": "https://example.com/pedro_martinez.jpg",
+      "descripcion": "Hola, mi nombre es Pedro y soy un apasionado de la música rock."
+    },
+    {
+      "id": 3,
+      "nombre": "Ana",
+      "apellido": "López",
+      "email": "ana.lopez@example.com",
+      "numero_de_celular": "+52 55 5555 5555",
+      "fecha_de_nacimiento": "1995-12-01",
+      "imagen": "https://example.com/ana_lopez.jpg",
+      "descripcion": "Hola, mi nombre es Ana y me gusta viajar por el mundo y conocer nuevas culturas."
+    },
+    {
+      "id": 4,
+      "nombre": "Juan",
+      "apellido": "González",
+      "email": "juan.gonzalez@example.com",
+      "numero_de_celular": "+52 55 1111 1111",
+      "fecha_de_nacimiento": "1988-09-10",
+      "imagen": "https://example.com/juan_gonzalez.jpg",
+      "descripcion": "Hola, mi nombre es Juan y me encanta hacer deportes al aire libre."
+    },
+    {
+      "id": 5,
+      "nombre": "Sofía",
+      "apellido": "Hernández",
+      "email": "sofia.hernandez@example.com",
+      "numero_de_celular": "+52 55 2222 2222",
+      "fecha_de_nacimiento": "1992-07-05",
+      "imagen": "https://example.com/sofia_hernandez.jpg",
+      "descripcion": "Hola, mi nombre es Sofía y me gusta leer libros de fantasía y ciencia ficción."
+    },
+    {
+      "id": 6,
+      "nombre": "Carlos",
+      "apellido": "Rojas",
+      "email": "carlos.rojas@example.com",
+      "numero_de_celular": "+52 55 3333 3333",
+      "fecha_de_nacimiento": "1990-04-18",
+      "imagen": "https://example.com/carlos_rojas.jpg",
+      "descripcion": "Hola, mi nombre es Carlos y soy un fanático de los videojuegos y la tecnología."
+    }
+]
+  
